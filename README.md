@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on developing open-source local energy systems 
+- 🌱 I’m currently learning alot ! : python , power system design and geospatial analysis
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: e.elqurashi@surrey.ac.uk
+- ⚡ Fun fact: 
 
 <!--
 **Elgenied/Elgenied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
