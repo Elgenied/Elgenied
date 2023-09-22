@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/elgenied)
+
+
 ## Elgenied Elqurashi
 I'm PhD student at [Center for enviroment and Sustainability ](https://www.surrey.ac.uk/centre-environment-sustainability)at [University of Surrey](https://www.surrey.ac.uk/).
 
